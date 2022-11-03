@@ -1,4 +1,4 @@
-package com.codecool.wasterecycling;
+package com.codecool.wasterecycling.container;
 
 public class DustbinContentException extends Exception {
 }
